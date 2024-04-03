@@ -1,4 +1,3 @@
 - 👋 Hi, I’m Vahid Zehtab (@vahidzee)
 - 👀 I’m interested in investigative studies in machine learning, especially for generative models and probabilistic deep learning models.
-- 🌱 I’m currently a MScAC student at UofT working on causal learning and diffusion models under the supervision of prof. R. Krishnan.
 - 📫 Feel free to reach me at vahid@zehtab.me
