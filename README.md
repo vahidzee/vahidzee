@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Vahid Zehtab (@vahidzee)
 - 👀 I’m interested in investigative studies in machine learning, especially for generative models and probabilistic deep learning models.
-- 📫 Feel free to reach me at vahid@zehtab.me
+- 📫 Feel free to reach me at contact@vahidz.com
